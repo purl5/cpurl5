@@ -1,5 +1,6 @@
 # OVPN5 proxy configuration.
 A SOCKS integrated VPN for my friends! Works with machines ranging from windows 7, to 10.
+Please note that this protocol is very slow, so it takes a while to connect to the proxy servers in Dallas.
 
 # Release.
 The release of the program can be found here:
