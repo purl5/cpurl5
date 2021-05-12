@@ -3,7 +3,7 @@ A SOCKS integrated VPN for my friends! Works with machines ranging from windows 
 
 # Release.
 The release of the program can be found here:
-(link)
+https://github.com/purl5/release/archive/refs/heads/main.zip
 
 ## Setting up.
 
